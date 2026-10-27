@@ -1,4 +1,4 @@
-# La Nouvelle-Zélande
+
 <html>
   <head>
     <title>Un pays attractif</title>
