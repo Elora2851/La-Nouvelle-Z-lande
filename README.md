@@ -1,5 +1,7 @@
 
 <html>
+<body style="background-image: url('Fougere.jpg'); background-size: cover; background-repeat: no-repeat;">
+</body>
   <head>
     <h1><mark>Un pays attractif</mark></h1>
   </head>
