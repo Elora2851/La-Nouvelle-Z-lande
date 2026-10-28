@@ -9,6 +9,8 @@
   <center>
     La Nouvelle-Zélande est un pays d'Océanie composé de nombreuses îles, dont deux principales: l'Ile du Sud et l'Ile du Nord. Sa capitale est Wellington et les langues officielles sont l'Anglais et le Maori. Ce pays est aujourd'hui très attractif, principalement pour ses <a href="Paysages.html">paysages</a> et est également très visé pour les backpackers et les étudiants erasmus.
   </center>
+    <ul></ul>
+    <ul></ul>
  <center>
     <img src="Tatouage.jpg" alt="Tatouage maori">
    </center>
