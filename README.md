@@ -24,6 +24,7 @@
 <ul><textarea id="story" name="story" rows="5" cols="33">
 Ce qui m'a le plus marqué...
 </textarea></ul>
-  
+
+  <ul><a href="Contacts.html">Contacts</a></ul>
   </body>
   </html>
