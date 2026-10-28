@@ -14,7 +14,7 @@
    </center>
   </body>
 <h1>Caractéristiques de la Nouvelle-Zélande</h1>
-1. La Culture Maorie
-2. Kiwis
-3. <a href="Paysages.html">paysages</a> 
+1. <a href="La-Culture-Maorie.html">paysages</a>
+2. <a href="Les-Kiwis.html">paysages</a>
+3. <a href="Paysages.html">paysages</a>
   </html>
