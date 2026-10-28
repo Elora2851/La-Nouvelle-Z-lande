@@ -14,6 +14,12 @@
 <ul>1. <a href="La-Culture-Maorie.html">La Culture Maorie</a></ul>
 <ul>2. <a href="Les-Kiwis.html">Les Kiwis</a></ul>
 <ul>3. <a href="Paysages.html">paysages</a></ul>
+
+<label for="story">Vous avez déjà voyagé en Nouvelle-Zélande? Racontez votre expérience&nbsp;:</label>
+
+<textarea id="story" name="story" rows="5" cols="33">
+Ce qui m'a le plus marqué...
+</textarea>
   
   </body>
   </html>
