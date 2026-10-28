@@ -1,7 +1,7 @@
 
 <html>
   <head>
-    <h1>Un pays attractif</h1>
+    <h1><mark>Un pays attractif</mark></h1>
   </head>
   <body>
   <center>
