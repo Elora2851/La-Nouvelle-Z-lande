@@ -15,7 +15,7 @@
 <ul>2. <a href="Les-Kiwis.html">Les Kiwis</a></ul>
 <ul>3. <a href="Paysages.html">paysages</a></ul>
 
-<label for="story">Vous avez déjà voyagé en Nouvelle-Zélande? Racontez votre expérience&nbsp;:</label>
+<ul><b><label for="story">Vous avez déjà voyagé en Nouvelle-Zélande? Racontez votre expérience&nbsp;:</label></b></ul>
 
 <ul><textarea id="story" name="story" rows="5" cols="33">
 Ce qui m'a le plus marqué...
