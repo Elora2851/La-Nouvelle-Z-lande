@@ -9,8 +9,8 @@
   </center>
 
 <h1>Caractéristiques de la Nouvelle-Zélande</h1>
-1. <a href="La-Culture-Maorie.html">paysages</a>
-2. <a href="Les-Kiwis.html">paysages</a>
+1. <ul><a href="La-Culture-Maorie.html">La Culture Maorie</a></ul>
+2. <a href="Les-Kiwis.html">Les Kiwis</a>
 3. <a href="Paysages.html">paysages</a>
    <center>
     <img src="tatouage.html.png" alt="Tatouage maori">
