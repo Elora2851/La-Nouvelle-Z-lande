@@ -9,7 +9,8 @@
   </center>
 
 
-   
+   <center>
     <img src="tatouage.html.png" alt="Tatouage maori">
+   </center>
   </body>
 </html>
