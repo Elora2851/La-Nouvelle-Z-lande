@@ -17,9 +17,9 @@
 
 <label for="story">Vous avez déjà voyagé en Nouvelle-Zélande? Racontez votre expérience&nbsp;:</label>
 
-<textarea id="story" name="story" rows="5" cols="33">
+<ul><textarea id="story" name="story" rows="5" cols="33">
 Ce qui m'a le plus marqué...
-</textarea>
+</textarea></ul>
   
   </body>
   </html>
